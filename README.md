@@ -7,7 +7,7 @@ BDD framework for automation using Selenium Cucumber and TestNg
   This project aims to give an inspiring or sample of automation test framework that uses Selenium and Cucumber with Java as the programming language.
 
 
-* Framework features
+Framework features
 
 * Modular Design
 * Maven based framework
@@ -19,7 +19,7 @@ BDD framework for automation using Selenium Cucumber and TestNg
 * Hooks for different browser support (using tag @chrome,@firefo
 
 
-* Framework features:
+Framework features:
 
 * Uses Domain objects
 * Support multiple Runners - TestNG, JUnit, CLI
