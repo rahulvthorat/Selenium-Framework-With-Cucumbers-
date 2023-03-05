@@ -13,3 +13,7 @@ The framework has following features
 * Centralized Configuration (Using Properties file)
 * POM
 * Hooks for different browser support (using tag @chrome,@firefo
+
+
+Project Purpose :
+This project aims to give an inspiring or sample of automation test framework that uses Selenium and Cucumber with Java as the programming language.
